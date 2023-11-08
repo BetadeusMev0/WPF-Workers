@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\worker list\bin\Debug\net6.0-windows\worker list.exe
+C:\Users\User\source\repos\worker list\bin\Debug\net6.0-windows\worker list.deps.json
+C:\Users\User\source\repos\worker list\bin\Debug\net6.0-windows\worker list.runtimeconfig.json
+C:\Users\User\source\repos\worker list\bin\Debug\net6.0-windows\worker list.dll
+C:\Users\User\source\repos\worker list\bin\Debug\net6.0-windows\worker list.pdb
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list_MarkupCompile.cache
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list_MarkupCompile.lref
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.g.resources
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.AssemblyInfo.cs
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.dll
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\refint\worker list.dll
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.pdb
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\worker list.genruntimeconfig.cache
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\ref\worker list.dll
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\workers.g.cs
+C:\Users\User\source\repos\worker list\obj\Debug\net6.0-windows\workers.baml
