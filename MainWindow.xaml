@@ -15,7 +15,7 @@
             <Button Content="Program" HorizontalAlignment="Left"></Button>
         </Grid>
         <Frame x:Name="FrmMain" Grid.Row="1" NavigationUIVisibility="Hidden" ContentRendered="FrmMain_ContentRendered"/>
-
+    
 
 
 
