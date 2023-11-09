@@ -1,2 +1,12 @@
 <workers>
+  <departament name="Finland">
+    <worker name="Andrey" post="Kretin" salary="200" description="">
+      <application name="Test Applicatioan" type="Other" description="Nu rabota tipo">c:sas</application>
+      <application name="Test Applicatioan" type="Other" description="Nu rabota tipo">c:sas</application>
+    </worker>
+    <worker name="Andrey" post="Kretin" salary="200" description="" />
+    <worker name="Andrey" post="Kretin" salary="200" description="" />
+    <worker name="Andrey" post="Kretin" salary="200" description="" />
+    <worker name="Andrey" post="Kretin" salary="200" description="" />
+  </departament>
 </workers>

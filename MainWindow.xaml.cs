@@ -30,6 +30,15 @@ namespace worker_list
         private void init() 
         {
             Methods.CreateXml();
+
+            Methods.Departament departament = new Methods.Departament();
+
+            departament.workers.Add(new worker);
+
+
+
+
+
         }
 
 
